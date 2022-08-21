@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NYC Schools</string>
+    <string name="nyc_high_schools_appbar_title">NYC High Schools</string>
+    <string name="nyc_high_school_details_appbar_title">NYC High School Details</string>
+    <string name="show_more">…Show more</string>
+    <string name="error_nyc_school_detail">Error occurred while showing School Details Screen</string>
+    <string name="error_nyc_schools_list">Error occurred while loading NYC High Schools</string>
+    <string name="navigation_back_icon_content_description">Back</string>
+    <string name="data_not_available">Not Available</string>
+    <string name="sat_scores">SAT Average Scores</string>
+    <string name="avg_reading_score">Avg Reading Score</string>
+    <string name="avg_writing_score">Avg Writing Score</string>
+    <string name="avg_math_score">Avg Math Score</string>
+    <string name="school_overview">School Overview</string>
+    <string name="sat_takers">SAT Takers</string>
+</resources>
